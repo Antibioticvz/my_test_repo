@@ -1,1 +1,1 @@
-export const test_two = "Dont wanna commit"
+export const test_two = "4"
